@@ -1,0 +1,2 @@
+# shockked
+About Me.
